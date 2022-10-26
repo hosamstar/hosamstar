@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hossam Shaker
-- 👀 I’m interested in Computer Science and Content Writing
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
