@@ -78,14 +78,6 @@
 
 ---
 
-## 🚀 Projects (Coming Soon)
-
-* 🔹 Backend APIs using .NET
-* 🔹 ERP-related tools & automation
-* 🔹 Full-stack applications (in progress)
-
----
-
 ## 📫 Connect With Me
 
 <p>
